@@ -14,7 +14,7 @@ const Header = () => {
 
         <nav className="flex space-x-8">
           <a href="/" className="text-white hover:text-gray-200 font-semibold hover:underline">Home</a>
-          <a href="#" className="text-white hover:text-gray-200 font-semibold hover:underline">Platform</a>
+          <a href="#" className="text-white hover:text-gray-200 font-semibold hover:underline">Marketplace</a>
           <a href="#" className="text-white hover:text-gray-200 font-semibold hover:underline">Contact us</a>
           <a href="#" className="text-white hover:text-gray-200 font-semibold hover:underline">About Developers</a>
         </nav>
